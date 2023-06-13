@@ -4,7 +4,7 @@
 主題是針對PTT電影版上面的影評，利用語言學特徵進行劇透偵測
 為了達到更加準確的劇透偵測成效，採取sentence-level analysis
 本資料夾結構如下：
- 
+```bash
  |model_feature+tf-idf.ipynb
  |model_tf-idf.ipynb
  |pre_processing.ipynb
@@ -17,7 +17,7 @@
  | 
  |README.txt
  |Sentence Level Spoiler Detection with Linguistic Features.pdf
-
+```
 [檔案說明]
 
 pre_processing.ipynb：前處理時使用之檔案
